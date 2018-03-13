@@ -190,47 +190,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for KickerManager\KickerManager.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=KickerManager.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for KickerManager\KickerManager.TXT
+DocumentPath=Project Outputs for KickerManager\KickerManager_bill_of_materials.xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -551,6 +511,8 @@ OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=ColumnNameFormat
+Configuration5_Item1=CaptionAsName
 OutputType6=ReportHierarchy
 OutputName6=Report Project Hierarchy
 OutputDocumentPath6=
