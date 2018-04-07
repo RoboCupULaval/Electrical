@@ -393,23 +393,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWTERVRM
 
-[Document22]
-DocumentPath=MainBoard.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=ProjectOutputs\MainBoardV2_BOM.csv
 DItemRevisionGUID=
@@ -478,26 +461,6 @@ DItemRevisionGUID=
 DocumentPath=ProjectOutputs\PCB_MainBoardV2.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=PCB_MainBoardV2 2018-04-06 16-57-44.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=PCB_MainBoardV2 2018-04-06 16-58-26.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=PCB_MainBoardV2 2018-04-06 16-59-04.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=PCB_MainBoardV2 2018-04-06 16-59-17.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=PCB_MainBoardV2 2018-04-06 16-59-30.WAS
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -542,10 +505,7 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=0
-SaveSettingsToOutJob=-1
-
-[Generic_EDE]
-OutputDir=ProjectOutputs
+SaveSettingsToOutJob=0
 
 [Generic_SCH]
 Collation=True
@@ -563,6 +523,9 @@ PageDef.mmMarginLeft=10160
 PageDef.mmMarginRight=10160
 PageDef.mmMarginTop=6350
 PageDef.mmMarginBottom=6350
+
+[Generic_EDE]
+OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs
